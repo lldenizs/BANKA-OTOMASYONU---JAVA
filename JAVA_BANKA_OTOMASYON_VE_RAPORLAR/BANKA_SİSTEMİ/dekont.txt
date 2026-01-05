@@ -1,6 +1,0 @@
---- BANKA DEKONTU ---
-Müşteri: Ali Yılmaz
-Hesap No: 123456
-İşlem: Havale Giden (56.0): -45.0 TL
-Tarih: 2026-01-03T20:03:18.236910
----------------------
