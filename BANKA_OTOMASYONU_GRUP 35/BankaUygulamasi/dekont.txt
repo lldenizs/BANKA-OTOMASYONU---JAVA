@@ -1,0 +1,6 @@
+--- BANKA DEKONTU ---
+Müşteri: Ali Yılmaz
+Hesap No: 123456
+İşlem: Para Çekme: -45.0 TL
+Tarih: 2026-01-08T01:34:31.423056600
+---------------------
